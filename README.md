@@ -10,8 +10,6 @@ Pero mi trabajo comienza antes de la implementación: primero comprendo qué nec
 
 Cuando se trata de un sistema existente, analizo su arquitectura e infraestructura para identificar qué debe conservarse, qué debe reconstruirse y cómo puede evolucionar sin comprometer su funcionamiento original, trabajando sobre entornos controlados y copias de trabajo antes de intervenir el sistema original.
 
----
-
 <div align="center">
 
 ## CÓMO TRABAJO
