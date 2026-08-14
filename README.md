@@ -11,7 +11,7 @@ Pero mi trabajo comienza antes de la implementación: primero comprendo qué nec
 Cuando se trata de un sistema existente, analizo su arquitectura e infraestructura para identificar qué debe conservarse, qué debe reconstruirse y cómo puede evolucionar sin comprometer su funcionamiento original, trabajando sobre entornos controlados y copias de trabajo antes de intervenir el sistema original.
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnaIsabelJaramilloFernandez&" alt="AnaIsabelJaramilloFernandez" /></p>
+  <p><img src="https://streak-stats.demolab.com/?user=AnaIsabelJaramilloFernandez" alt="GitHub Streak" /></p>
 </div>
 
 <div align="center">
