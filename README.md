@@ -11,7 +11,7 @@ Pero mi trabajo comienza antes de la implementación: primero comprendo qué nec
 Cuando se trata de un sistema existente, analizo su arquitectura e infraestructura para identificar qué debe conservarse, qué debe reconstruirse y cómo puede evolucionar sin comprometer su funcionamiento original, trabajando sobre entornos controlados y copias de trabajo antes de intervenir el sistema original.
 
 <div align="center">
-  <p><img src="https://streak-stats.demolab.com/?user=AnaIsabelJaramilloFernandez" alt="GitHub Streak" /></p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnaIsabelJaramilloFernandez&theme=github_dark" alt="Ana Isabel" />
 </div>
 
 <div align="center">
@@ -45,7 +45,7 @@ Y jamás dejo el 100% de la decisión a la IA, ya que tengo mi propia manera de 
 
 ### Infraestructura:
 
-  <img src="https://skillicons.dev/icons?i=git,github,bash,docker,postman&perline=5" />
+  <img src="https://skillicons.dev/icons?i=powershell,vscode,git,bash,github,docker,postman&perline=7" />
 
 Trabajo directamente desde la raíz de los proyectos y la terminal. Utilizo **Git y GitHub** como parte del control de versiones y la documentación del proceso, manteniendo el historial de cambios como parte de la trazabilidad del proyecto. Trabajo con **Docker** para la organización y aislamiento de servicios y con diferentes sistemas de bases de datos según las necesidades de cada arquitectura.
 
