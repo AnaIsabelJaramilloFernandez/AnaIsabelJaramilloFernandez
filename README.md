@@ -59,7 +59,7 @@ Mi mayor afinidad técnica está en el **Backend**. Comprendo su estructura, res
 
   <img src="https://skillicons.dev/icons?i=html,css,js&perline=3" />
 
-Mi interés en esta capa está principalmente en la **arquitectura de la experiencia**, la comunicación con el backend **sin exponer arquitectura interna**, la organización de interfaces y la coherencia entre lo que el usuario necesita y lo que el sistema debe ejecutar. Puedo comprender la estructura y funcionamiento de **HTML, CSS y JavaScript*, su relación con APIs y servicios backend.
+Mi interés en esta capa está principalmente en la **arquitectura de la experiencia**, la comunicación con el backend **sin exponer arquitectura interna**, la organización de interfaces y la coherencia entre lo que el usuario necesita y lo que el sistema debe ejecutar. Puedo comprender la estructura y funcionamiento de **HTML, CSS y JavaScript**, su relación con APIs y servicios backend.
 
 > No considero estas herramientas elementos aislados, sino parte de la infraestructura que permite que cada componente del sistema se comunique, evolucione y pueda mantenerse correctamente.
 
